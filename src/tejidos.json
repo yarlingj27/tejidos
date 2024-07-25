@@ -1,0 +1,88 @@
+[
+  {
+    "producto": "Amigurumis",
+    "precio": 95000,
+    "descripcion": "Amigurumis de tu  personaje favorito.",
+    "imagen": "1.jpg",
+    "categoria": "amigurumis"
+  },
+  {
+    "producto": "Amigurumis",
+    "precio": 60000,
+    "descripcion": "Amigurumis animales salvajes.",
+    "imagen": "2.jpg",
+    "categoria": "amigurumis"
+  },
+  {
+    "producto": "Llaveros",
+    "precio": 20000,
+    "descripcion": "Llaveros corazon y girasol tejidos a crochet.",
+    "imagen": "3.jpg",
+    "categoria": "llaveros"
+  },
+  {
+    "producto": "Llaveros",
+    "precio": 20000,
+    "descripcion": "Llaveros corazon tejidos a crochet.",
+    "imagen": "4.jpg",
+    "categoria": "llaveros"
+  },
+  {
+    "producto": "Llaveros",
+    "precio": 20000,
+    "descripcion": "Llaveros corazon y girasol tejidos a crochet.",
+    "imagen": "5.jpg",
+    "categoria": "llaveros"
+  },
+  {
+    "producto": "Llaveros",
+    "precio": 20000,
+    "descripcion": "Llaveros corazon tejidos a crochet.",
+    "imagen": "6.jpg",
+    "categoria": "llaveros"
+  },
+  {
+    "producto": "Llaveros",
+    "precio": 23000,
+    "descripcion": "Llaveros Mike Wazowski tejidos a crochet.",
+    "imagen": "15.jpg",
+    "categoria": "llaveros"
+  },
+  {
+    "producto": "Llaveros",
+    "precio": 20000,
+    "descripcion": "Llaveros aguacate tejidos a crochet.",
+    "imagen": "16.jpg",
+    "categoria": "llaveros"
+  },
+  {
+    "producto": "Llaveros",
+    "precio": 23000,
+    "descripcion": "Llaveros corazones tejidos a crochet.",
+    "imagen": "17.jpg",
+    "categoria": "llaveros"
+  },
+  {
+    "producto": "Ramos",
+    "precio": 105000,
+    "descripcion": "Hermosos ramo de flores con amigurumi winnie poo tejidos a crochet.",
+    "imagen": "18.jpg",
+    "categoria": "ramos"
+  },
+  {
+    "producto": "Ramos",
+    "precio": 90000,
+    "descripcion": "Hermosos ramos de flores tejidos a crochet.",
+    "imagen": "19.jpg",
+    "categoria": "ramos"
+  },
+  {
+    "producto": "Ramos",
+    "precio": 150000,
+    "descripcion": "Hermosos ramos de flores tejidos a crochet.",
+    "imagen": "20.jpg",
+    "categoria": "ramos"
+  }
+  
+
+]
