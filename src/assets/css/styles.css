@@ -4,6 +4,11 @@ body {
   margin: 0px;
   padding: 0px;
   font-family: "Roboto", Arial, Tahoma, sans-serif;
+  background-image: url("/src/imagenes/fondo.jpg");
+  background-repeat: repeat; /* Repite la imagen tanto horizontal como verticalmente */
+  background-size: auto; /* La imagen mantiene su tamaño original */
+  margin: 0;
+  padding: 0;
 }
 header {
   position: fixed;
@@ -42,6 +47,7 @@ nav li a {
   color: black;
   background-color: white;
   border: 1px solid grey;
+  border-radius: 15px;
 }
 nav li a:hover {
   color: white;
@@ -59,20 +65,61 @@ footer {
 }
 
 #contenedor {
-    padding: 4rem;   
+  padding: 4rem;
+  
 }
 
 #seccion3 {
   display: flex;
-    margin: 1px;  
-    grid-gap: 20%;
-    width: 100%;
-    height: 150px;
-    text-align: center;
+  margin: 1px;
+  grid-gap: 20%;
+  width: 100%;
+  height: 150px;
+  text-align: center;
 }
 
 #seccion4 {
   padding: 50px;
   font-size: 20px;
   text-align: center;
+}
+
+#contenedorProductos {
+  padding: 4rem;
+  display: flex;
+  flex-direction: column;
+  background: rgb(244, 243, 240);
+  background: linear-gradient(
+    90deg,
+    rgba(244, 243, 240, 1) 0%,
+    rgba(250, 245, 189, 1) 35%,
+    rgba(224, 208, 152, 1) 100%
+  );
+}
+
+#categoria {
+  text-transform: capitalize;
+  text-align: center;
+}
+
+#productosContenedor {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+#producto {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 220px;
+  background-color: antiquewhite;
+}
+
+#producto img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
 }

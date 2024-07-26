@@ -11,21 +11,22 @@
 
     <section id="seccion3">
       <article>
-        <img src="/src/assets/imagenes/1.jpg" alt="" width="300" height="200" />
         <h3>Amigurumis</h3>
+        <img src="/src/assets/imagenes/1.jpg" alt="" width="300" height="200" />
       </article>
       <article>
-        <img src="/src/assets/imagenes/5.jpg" alt="" width="300" height="200" />
         <h3>Llaveros</h3>
+        <img src="/src/assets/imagenes/5.jpg" alt="" width="300" height="200" />
       </article>
       <article>
+        <h3>Ramos</h3>
         <img
           src="/src/assets/imagenes/10.jpg"
           alt=""
           width="300"
           height="200"
         />
-        <h3>Ramos</h3>
+        
       </article>
     </section>
   </article>
