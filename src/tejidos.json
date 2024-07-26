@@ -82,6 +82,41 @@
     "descripcion": "Hermosos ramos de flores tejidos a crochet.",
     "imagen": "20.jpg",
     "categoria": "ramos"
+  },
+  {
+    "producto": "Amigurumi",
+    "precio": 25000,
+    "descripcion": "Hermosos amigurumis tejidos a crochet.",
+    "imagen": "21.jpg",
+    "categoria": "amigurumis"
+  },
+  {
+    "producto": "Amigurumi",
+    "precio": 17000,
+    "descripcion": "Gran variedad de amigurumis tejidos a crochet.",
+    "imagen": "22.jpg",
+    "categoria": "amigurumis"
+  },
+  {
+    "producto": "Amigurumi",
+    "precio": 22000,
+    "descripcion": "Muñecos personalizados (Harry Potter)",
+    "imagen": "23.jpg",
+    "categoria": "amigurumis"
+  },
+  {
+    "producto": "Ramos",
+    "precio": 120000,
+    "descripcion": "Hermoso ramo de rosas con amigurumi de vaca",
+    "imagen": "24.jpg",
+    "categoria": "ramos"
+  },
+  {
+    "producto": "Ramos",
+    "precio": 110000,
+    "descripcion": "Hermoso ramo para toda ocasión",
+    "imagen": "25.jpg",
+    "categoria": "ramos"
   }
   
 
