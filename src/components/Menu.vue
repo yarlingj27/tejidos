@@ -1,7 +1,7 @@
 <template>
   <header>
     <nav>
-      <img src="../assets/imagenes/logo.png" alt="" width="190" height="120" />
+      <img src="/imagenes/logo.png" alt="" width="190" height="120" />
       <!-- menu -->
       <ul>
         <li>

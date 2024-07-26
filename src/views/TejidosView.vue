@@ -6,7 +6,7 @@
 
         <section v-for="producto in productos" :key="producto.producto" id="producto">
           <h3>{{ producto.descripcion }}</h3>
-          <img :src="`/src/assets/imagenes/${producto.imagen}`" :alt="producto.producto" width="150" height="100"/>
+          <img :src="`/imagenes/${producto.imagen}`" :alt="producto.producto" width="150" height="100"/>
           <b>Precio Unidad: ${{ producto.precio }}</b>
           
         </section>

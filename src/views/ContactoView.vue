@@ -2,7 +2,7 @@
   <section id="contacto">
     <section id="contenedorContacto">
       <article id="imagenContacto">
-        <img src="/src/assets/imagenes/foto.jpeg" alt="" width="480" />
+        <img src="/imagenes/foto.jpeg" alt="" width="480" />
       </article>
       <article id="informacion">
         <h1>Tejidos Yarlin</h1>

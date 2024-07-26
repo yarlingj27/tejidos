@@ -12,16 +12,16 @@
     <section id="seccion3">
       <article>
         <h3>Amigurumis</h3>
-        <img src="/src/assets/imagenes/1.jpg" alt="" width="300" height="250" />
+        <img src="/imagenes/1.jpg" alt="" width="300" height="250" />
       </article>
       <article>
         <h3>Llaveros</h3>
-        <img src="/src/assets/imagenes/5.jpg" alt="" width="300" height="250" />
+        <img src="/imagenes/5.jpg" alt="" width="300" height="250" />
       </article>
       <article>
         <h3>Ramos</h3>
         <img
-          src="/src/assets/imagenes/10.jpg"
+          src="/imagenes/10.jpg"
           alt=""
           width="300"
           height="250"
