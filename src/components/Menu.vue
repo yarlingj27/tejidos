@@ -5,7 +5,7 @@
       <!-- menu -->
       <ul>
         <li>
-          <router-link to="/"> Incio </router-link>
+          <router-link to="/"> Inicio </router-link>
         </li>
         <li>
           <router-link to="/tejidos"> Tejidos </router-link>
