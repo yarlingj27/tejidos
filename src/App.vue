@@ -11,5 +11,5 @@ import Footer from "@/components/Footer.vue";
   <Menu />
   <br>
   <RouterView />
-  <!--<Footer/>-->
+  <Footer/>
 </template>
