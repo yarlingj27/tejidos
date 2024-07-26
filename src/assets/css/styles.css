@@ -123,3 +123,65 @@ footer {
   height: auto;
   margin-bottom: 10px;
 }
+
+#contacto {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 3.9rem;
+  background: rgb(244,243,240);
+background: linear-gradient(90deg, rgba(244,243,240,1) 0%, rgba(250,245,189,1) 35%, rgba(224,208,152,1) 100%);
+}
+
+#contenedorContacto {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  max-width: 1200px;
+  width: 100%;
+  align-items: flex-start;
+}
+
+#imagenContacto img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+#informacion {
+  padding: 5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+#informacion h1 {
+  margin: 0 0 10px 0;
+  font-size: 2em;
+}
+
+#informacion p {
+  margin: 5px 0;
+}
+
+#redesMetodo {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  margin-top: 50px;
+}
+
+
+
+#columna h2 {
+  margin: 0 0 10px 0;
+}
+
+#columna ul {
+  list-style: none;
+  padding: 0;
+}
+
+#columna ul li {
+  margin: 5px 0;
+}
